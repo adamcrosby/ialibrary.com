@@ -598,8 +598,8 @@ div.notices p:first-child:before {
   position: absolute;
   top: -27px;
   color: #fff;
-  font-family: FontAwesome;
-  content: '';
+  font-family: "Font Awesome 5 Free";
+  content: '\f06a';
   left: 10px; }
 
 div.notices p:first-child:after {
@@ -725,4 +725,3 @@ ul.children.children-card {
     margin-left: -1rem;
     margin-right: -1rem; } }
 
-/*# sourceMappingURL=style.css.map */

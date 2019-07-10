@@ -616,7 +616,7 @@ div.notices p:first-child:before {
   position: absolute;
   top: -27px;
   color: #fff;
-  font-family: FontAwesome;
+  font-family: "Font Awesome 5 Free";
   content: '';
   left: 10px; }
 
@@ -1407,5 +1407,3 @@ pre .copy-to-clipboard:hover {
 
   #body {
     margin-left: 0px; } }
-
-/*# sourceMappingURL=style.css.map */
