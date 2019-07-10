@@ -34,18 +34,20 @@ home = [ "HTML", "RSS", "JSON"]
 name = "<i class='fa fa-fighter-jet'></i><label>NISPOM</label>"
 weight = 10
 #pre = "<h3>More</h3>"
-#url = ""
+url = "https://what.com"
 #identifier = ""
 
 [[menu.shortcuts]]
 name = "<i class='fa fa-cloud'></i><label>Cloud</label>"
 weight = 20
+url = "https://what.com"
 
 [[menu.shortcuts]]
 name = "<i class='fa fa-file-contract'></i><label>DFAR</label>"
 weight = 30
+url = "https://what.com"
 
 [[menu.shortcuts]]
 name = "<i class='fa fa-robot'></i><label>DoD Cyber</label>"
 weight = 40
-
+url = "https://what.com"
