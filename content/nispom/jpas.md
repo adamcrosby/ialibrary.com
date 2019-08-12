@@ -57,6 +57,9 @@ A letter, on company letter head, signed by KMP appointing you to the appropriat
 
 A PDF that has to be filled out and sent via encrypted email.
 
-### PKI Certificate 
+### PKI Certificate
 
-CAC or ECA.
+CAC or ECA - signed up for the appropriate ECA Certificate via IdenTrust at: [https://www.identrust.com/partners/jpas-joint-personnel-adjudication-system](https://www.identrust.com/partners/jpas-joint-personnel-adjudication-system)
+{{% notice warning %}}
+Important: If using an ECA, it must be a HARDWARE Token ECA.
+{{% /notice %}}
