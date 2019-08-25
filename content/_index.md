@@ -8,5 +8,5 @@ This site is not affiliated with the DoD, and nothing on here should be construe
 
 {{% notice info %}}
 All of the information on this site is UNCLASSIFIED and not considered [FOUO](/glossary/#fouo), [CUI](/glossary/#cui), [CDI](/glossary/#cdi), or any other controlled data classification or categorization.  
-In some cases, there will be links to sites or documents that are controlled, and most likely require a [CAC](/glossary/#cac) or [ECA](/glossary/#eca) to access - these will be marked with a <i class="fas fa-id-card"></i> symbol.
+In some cases, there will be links to sites or documents that are controlled, and most likely require a [CAC](/glossary/#cac) or [ECA](/glossary/#eca) to access - these will be marked with a {{% cacsymbol %}} symbol.
 {{% /notice %}}

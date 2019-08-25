@@ -1,1 +1,1 @@
-&copy; 2019 - Adam Crosby
+2019 {{% copyright %}}  Adam Crosby
